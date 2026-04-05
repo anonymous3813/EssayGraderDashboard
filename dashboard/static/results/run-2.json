@@ -1,0 +1,1433 @@
+{
+  "metadata": {
+    "timestamp": "2026-04-03T21:51:53.474942",
+    "system_instructions": "\n\n\nYou are an academic grader. \nApply the provided rubric exactly as written.\nAward points when the student meets the criteria described. \nDON'T apply outside standards beyond what the rubric specifies.\n\nFor each criterion:\n1. Identify specific weaknesses (quote or paraphrase from the essay)\n2. Identify specific strengths (quote or paraphrase from the essay)\n3. Assign a score\n4. State what would be needed to earn additional points\n\nONLY name your output criteria by the same name as given by the rubric\n\n\n\nCALIBRATION EXAMPLES:\nThe following essays were written for the same prompt. Study how scores map to essay quality.\n\n<Example score=\"high\">\n    <EssayPrompt>Evaluate how different reform movements in the United States responded to industrialization from 1820 to 1900. </EssayPrompt>\n    <Essay>\n        After the American Revolution, there was great debate over whether America should become a \nmanufacturing nation or an agrarian nation. Federalists supported American manufacturing while \ndemocratic republicans emphasized how the nations should become the bread basket of the world. \nAs America expanded westward, agriculture and manufacturing industries were establsihed. \nHowever, protective tariffs were implimented and factories were built; America became a nation \nheavy on manufacturing. The market revolution began in the early 1800s and consisted of many new \ninventions such as the steel plow, the telegraph, and eli whitney's cotton gin. Innovator Samuel \nSlater memorized a british textile machine and built one in America. He also invented \ninterchangeable parts which made manufacturing more efficient. Henry Ford contributed immensely \nto the industrialization of America by creating the assembly line. The assembly line allowed for cars \nto be mass produced and be sold at an affordable price. All of these new inventions and factories \nrequired workers. This led to an increase in wage labor and America became known for its economic \nopportunities. Factories were built in northern America and some in the south. Cities quickly became \ncrowded, living and working conditions became very poor. As a result of industrialization causing \npoor working and living conditions, womens right's movements fought for equal pay and suffrage, \nlabor unions formed to fight for better conditions, and immigration reformers like Jane Addams \nsought to improve working lives of immigrants.  \nIn the 1800s, women in the lower class could not rely on their husbands for financial security. These \nwomen were forced to work in factories. In Lowell, Massachusetts mills hired young women to come \nand work for them. Francis Cabot Lowell ran these mills and convinced women that they'd meet new \npeople, live in nice dorms, and earn a good wage. However, these women were living in bad quality \ndorms, had extremely strict rules, and had very little pay. Women were paid less that men despite \ndoing the same work. Lowell girls often protested this poor quality and tried to leave but they were \nunder contract. Women also lacked the right to vote. The Seneca Falls Convention led by Elizabeth \nCady Stanton protested for the right to vote. They argued that women are the moral people of the \ncountry. They also argued that women work just as much as men, whether its in the home or in a \nfactory, and therefore they should have suffrage. Women's groups also advocated for prison reform. \nPrison conditions were poor and prisoners were often to do forced labor. Some womens groups \nadvocated against forced labor in prisons which was caused by the need for manufacturing.  \nLabor unions also formed as a result of poor working conditions caused by industrialization. Factory \nworkers were forced to work long days with no breaks in unsafe factories, and they were paid very \npoorly. The Knights of Labor was one of America's earliest labor unions. They fought for shorter \ndays, safer conditions, longer breaks, equal pay, and an end to child labor. Labor unions often \nstriked as well. The IWW labor union, standing for \"I won't work\" went on strike due to poor wages \nand conditions. Often times, these workers were replaced by other workers or were forced to work. \nIndustrialization and the rise of factories also led to a crowded cities. In these cities, lower class \nfamilies were forced to live in tenements. Tenements were small and crowded. These cities often had \nsewage problems leaving poor families living in gruesome conditions and then having to work for 12 \nhours everyday. Many immigrants were forced to live in these poor condition as well. In the late \n1800s, immigrants from southeastern Europe came to America, as well as China. Irish immigrants \ncame fleeing the potato famine and looking for work, as well as the Chinese. Due to the industrial \nrevolution, America was beeming with job opportunities. Immigrants were often paid very poorly in \nfactory jobs. Jane Addams was a immigration reformist who directly improved the lives of \nimmigrants.  She established settlement houses, like hull house, in the 1880s for immigrants to stay \n\n\nin as well as learn to speak English and find childcare. Overall, industrialization led to an immense \nrise in factories with horrible conditons and unlivable wages which women's rights groups, labor \nunions, and Jane Addams and other immigration advocates fought to improve lives of workers.\n    </Essay>\n    <Grade>\n        Thesis/Claim Score: 1\nContextualization Score: 1\nEvidence Score: 2\nAnalysis and Reasoning Score: 2\nTotal Score: 6\n\nA. Thesis/Claim (0\u20131 points): 1 The response earned 1 point for the thesis. Located in the final sentence of the first paragraph, the  response argues that the efforts for women\u2019s rights, labor unions, and immigrant advocacy were  responses to industrialization.\n\nB. Contextualization (0\u20131 points): 1 The response earned 1 point for contextualization. The introductory paragraph discusses the evolution of  United States society in the late 1700s and early 1800s, focusing on debates about economic policy, the  emergence of factories, and the growth of cities.\n\nC. Evidence (0\u20132 points): 2 The response earned 2 points for using evidence. The response uses multiple specific pieces of evidence  such as the Lowell mills, the Seneca Falls Convention, the Knights of Labor, Jane Addams, and Hull  House. The response earned the second point for evidence. The second paragraph uses both the Lowell mills  and the Seneca Falls Convention to argue that wage and working conditions caused by industrialization  led to reform advocacy. In addition, paragraph four describes the work of Jane Addams and Hull House,  tying them to an argument about how reformers sought to assist low-wage immigrant laborers in  industrialized United States cities.\n\nD. Analysis and Reasoning (0\u20132 points): 2 The response earned 1 point for historical reasoning. The response argues that the Knights of Labor  formed \u201cas a result of poor working conditions caused by industrialization\u201d and then details its reform  objectives, ranging from shorter days and better wages to going on strike.\n\n    </Grade>\n</Example>\n\n<Example score=\"medium\">\n    <EssayPrompt>Evaluate how different reform movements in the United States responded to industrialization from 1820 to 1900. </EssayPrompt>\n    <Essay>\n        Reform movements had a radical responses to Industrialization because of unjust labor and big \nbuisnesses. \nIndustrialization caused for many new factories, whic in turn caused for the need of new workers for \nthese factories. Some of these new workers were small girls who were emplyed to work in these \nfactories. The benefits to these girls was that they were small enough to fit in tight spaces, and they \nwere easily replacable if anything bad were to happen to them. These girls were known as the Lowell \ngirls. They were forced to work long hours with little to no breaks. Factories had very harsh working \nconditions that they were forced to endure. Along with the Lowell girls, many other people were put \nin horrible working conditions. There was much unjust labor in American factories. This caused \nmany strikes and rebellions. Labor organizations formed to fight back against these harsh \nconditions. They fought for better pay, breaks in their work day, and better conditions.  \nBig Buisnesses arose from Industrialization. Big buisness owners such as Carnegie and Rockefeller \nwere far more wealthy than any other people in America. Big buisnesses arose from techniques \ncalled horizontal and vertical integration. When practicing horizontal integration, the owner would \nbuy ouy every buisness that sold his product. When practicing vertical integration, the owner would \nbuy out every buisness that was a step to making his product. Many people were being unfairly \ntreated and worked by these powerful buisnesses. Big Buisnesses and Industrialization caused the \nformation of assembly lines to start. The specialized workers or merchants would be brought down \nto someone who simply hammers nails and passes the product off to the next person. This made \nmany people upset and belittled them from someone special to someone ordinary.  \n1820 to 1900 was a rapidly changing time for the United States. Industrialization had many positives \nbut also many negatives depending on which side of the economy you were on. The elites and big \nbuisness owners flourished, but the lower class people were forced to face many difficulties and \nharsh conditions. This caused many revolts against Industrializtion.\n    </Essay>\n    <Grade>\n        Thesis/Claim Score: 1\nContextualization Score: 0\nEvidence Score: 2\nAnalysis and Reasoning Score: 1\nTotal Score: 4\n\nA. Thesis/Claim (0\u20131 points): 1 The response earned 1 point for the thesis. The first sentence claims that \u201cReform movements had  a radical responses to Industrialization because of unjust labor and big buisnesses.\u201d The response  establishes a minimally acceptable claim with a line of reasoning.\n\nB. Contextualization (0\u20131 points): 0 The response did not earn the point for contextualization because no attempt was made to provide a  broader historical context relevant to the prompt.\n\nC. Evidence (0\u20132 points): 2 The response earned 2 points for evidence. The response provides many examples of evidence, including  the Lowell mill girls, unionization, horizontal integration, and industrialists such as John D. Rockefeller  and Andrew Carnegie.   The response uses evidence of the Lowell mill girls and labor organizations to support an argument that  unjust factory conditions led to strikes for \u201cbetter pay, breaks in their work day, and better conditions.\u201d\n\nD. Analysis and Reasoning (0\u20132 points): 1 The response earned 1 point for using historical reasoning through causation. The response discusses  how the growth of big business contributed to the spread of industrial labor conditions such as assembly  lines that devalued specialized labor.  The response did not earn the point for demonstrating a complex understanding because it makes no  attempt at sophisticated argumentation or effective use of evidence.\n\n    </Grade>\n</Example>\n\n<Example score=\"low\">\n    <EssayPrompt>Evaluate how different reform movements in the United States responded to industrialization from 1820 to 1900. </EssayPrompt>\n    <Essay>\n        Different refom movements in the U.S responded to indurstialization from 1820 to the 1900s by \nprotesting aginst the labor union or telling congress about the horrible living conditions in the labor \nunions. During this time a lot of people from rual areas where going to more urban areas for better \njob oppurtties. \nOne way reform movements responnnded to industrilzation is by protesting there was a protestest \nthat happen and all the people in the labor union refused to work until they got highter wages and/or \nbetter working conditions. Often times this would go on for days and maybe even weeks this protest \nwas rarley ever succesful though is was an good attempt at first. this shows how they responded to \nindsurtilaztion by protesting \nAnother way they responded is by taking it to congress and telling then how terrible the work \nconditions are and how badly there being mistreated. They told congress about how they had chillre \nworking in the facilties and how they were getting there finger cut off and how they ahd to work long \nhour with little wages and they had to sleep on site in tiny one room filthy aparments. \nIn conclusino reform movemnets in the United states respondes to industrilaztion from 1820 to the \n1900s by protesting by stopping working and telling congress about the terrible working conditions.\n    </Essay>\n    <Grade>\n        Thesis/Claim Score: 1\nContextualization Score: 0\nEvidence Score: 0\nAnalysis and Reasoning Score: 0\nTotal Score: 1\n\nA. Thesis/Claim (0\u20131 points): 1 The response earned 1 point for the thesis. In the first paragraph, the response makes a historically  defensible argument that reform movements \u201cresponded to indurstialization\u201d through protests both by  labor unions and Congress.\n\nB. Contextualization (0\u20131 points): 0 The response did not earn the point for contextualization. The response has an attempt at the end of the  first paragraph, but the discussion of migration from rural to urban areas is a passing reference and too  vague.\n\nC. Evidence (0\u20132 points): 0 The response did not earn the first point for evidence. The response references labor unions and  examples of their activity in the second paragraph, but the subsequent discussion of congressional  testimonies is too vague to count toward earning the point.  The response did not earn the second point for evidence. The response does not support an argument in  response to the prompt using at least two pieces of specific and relevant evidence.\n\nD. Analysis and Reasoning (0\u20132 points): 0 The response did not earn the point for using historical reasoning. The second and third paragraphs  describe labor conditions and attempts to address Congress, but this is not used to frame an argument  that addresses the prompt.  The response did not earn the point for demonstrating a complex understanding. The response makes no  attempt at sophisticated argumentation or effective use of evidence.\n\n    </Grade>\n</Example>\n",
+    "rubric": "# Essay Rubric\n\n## Thesis / Claim\n* **Possible Points:** 1\n* **Description:** Responds to the prompt with a historically defensible thesis or claim that establishes a clear line of reasoning. The thesis must directly answer the prompt and be located in the introduction or conclusion.\n\n---\n\n## Contextualization\n* **Possible Points:** 1\n* **Description:** Describes a broader historical context relevant to the prompt. The response must explain relevant historical developments, events, or processes occurring before, during, or after the time period in the prompt. Vague and overgeneralized responsesdon't earn the point\n\n---\n\n## Evidence\n* **Possible Points:** 2\n* **Description:** Uses specific and relevant historical evidence to address the prompt. 1 point: Provides specific examples of evidence relevant to the topic. 2 points: Supports an argument in response to the prompt using specific and relevant historical evidence.\n\n---\n\n## Analysis and Reasoning\n* **Possible Points:** 2\n* **Description:** Uses historical reasoning such as comparison, causation, or continuity and change to structure an argument that addresses the prompt. 1 point: Uses historical reasoning to frame the argument. 2 points: Demonstrates a complex understanding of the historical development through sophisticated argumentation, qualification, or multiple perspectives.\n\n---\n",
+    "multishot_examples": [
+      {
+        "score_level": "high",
+        "essay_prompt": "Evaluate how different reform movements in the United States responded to industrialization from 1820 to 1900. "
+      },
+      {
+        "score_level": "medium",
+        "essay_prompt": "Evaluate how different reform movements in the United States responded to industrialization from 1820 to 1900. "
+      },
+      {
+        "score_level": "low",
+        "essay_prompt": "Evaluate how different reform movements in the United States responded to industrialization from 1820 to 1900. "
+      }
+    ]
+  },
+  "metrics": {
+    "n": 17,
+    "failed": 1,
+    "mae": 2.0,
+    "rmse": 2.678893538055459,
+    "exact_pct": 35.294117647058826,
+    "close_pct": 35.294117647058826,
+    "mean_bias": 2.0,
+    "problematic": [
+      {
+        "prompt": "Evaluate how different reform movements in the United States responded to industrialization from 1820 to 1900. ",
+        "essay_id": "25 Set 1 Sample C",
+        "error": false,
+        "real_total": 1,
+        "ai_total": 6.0,
+        "total_possible": 6,
+        "total_diff": 5.0,
+        "criteria_diffs": {
+          "A": {
+            "name": "Thesis/Claim",
+            "real": 1,
+            "ai": null,
+            "possible": 1,
+            "diff": null,
+            "reasoning": "",
+            "real_feedback": "The response earned 1 point for the thesis. In the first paragraph, the response makes a historically \ndefensible argument that reform movements \u201cresponded to indurstialization\u201d through protests both by \nlabor unions and Congress."
+          },
+          "B": {
+            "name": "Contextualization",
+            "real": 0,
+            "ai": 1.0,
+            "possible": 1,
+            "diff": 1.0,
+            "reasoning": "The introductory context regarding the New Deal sets the stage for the ideological clash that defines the period from 1960-2000. It is specific enough to earn the point.",
+            "real_feedback": "The response did not earn the point for contextualization. The response has an attempt at the end of the \nfirst paragraph, but the discussion of migration from rural to urban areas is a passing reference and too \nvague."
+          },
+          "C": {
+            "name": "Evidence",
+            "real": 0,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 2.0,
+            "reasoning": "The author uses multiple specific examples of economic policy to support the argument regarding societal responses. The connection between policy and public perception is well-grounded in historical facts.",
+            "real_feedback": "The response did not earn the first point for evidence. The response references labor unions and \nexamples of their activity in the second paragraph, but the subsequent discussion of congressional \ntestimonies is too vague to count toward earning the point. \nThe response did not earn the second point for evidence. The response does not support an argument in \nresponse to the prompt using at least two pieces of specific and relevant evidence."
+          },
+          "D": {
+            "name": "Analysis and Reasoning",
+            "real": 0,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 2.0,
+            "reasoning": "The response effectively uses comparison and contrast to structure the argument. By explaining the motivations behind the 'joy' and 'unrest' of different factions, the student demonstrates a complex understanding of the ideological shifts during this period.",
+            "real_feedback": "The response did not earn the point for using historical reasoning. The second and third paragraphs \ndescribe labor conditions and attempts to address Congress, but this is not used to frame an argument \nthat addresses the prompt. \nThe response did not earn the point for demonstrating a complex understanding. The response makes no \nattempt at sophisticated argumentation or effective use of evidence."
+          }
+        },
+        "strengths": [
+          "Strong, clear thesis statement.",
+          "Effective use of historical comparisons to explain societal shifts.",
+          "Well-integrated specific evidence."
+        ],
+        "areas_for_improvement": [
+          "While the argument is strong, further exploration of specific societal events (such as specific protest movements or legislative debates) would deepen the analysis even further."
+        ],
+        "final_feedback": "This is an excellent essay. You successfully identified a clear line of reasoning in your thesis and maintained that focus throughout your body paragraphs. Your ability to provide concrete policy examples (like the Great Society and Supply-Side economics) and pair them with the corresponding societal reactions demonstrates a sophisticated understanding of the period. Your contextualization effectively bridges the gap between the mid-century New Deal and the late-century Reagan revolution. Well done."
+      },
+      {
+        "prompt": "Evaluate how sectional tensions shaped United States society from 1800 to 1848. ",
+        "essay_id": "25 Set 2 Sample C",
+        "error": false,
+        "real_total": 1,
+        "ai_total": 6.0,
+        "total_possible": 4,
+        "total_diff": 5.0,
+        "criteria_diffs": {
+          "A": {
+            "name": "Thesis/Claim",
+            "real": 1,
+            "ai": 1.0,
+            "possible": 1,
+            "diff": 0.0,
+            "reasoning": "The thesis is historically defensible, answers the prompt, and provides a clear line of reasoning.",
+            "real_feedback": "The response earned 1 point for thesis because it provides a historically defensible claim that establishes \na minimally acceptable line of reasoning, arguing that \u201cSectional tensions\u201d shaped United States society \nthrough \u201cvarying opinions of Americans on slaverys eventual downfall and how new land bought and \ngained pre civil war.\u201d"
+          },
+          "B": {
+            "name": "Contextualization",
+            "real": 0,
+            "ai": 1.0,
+            "possible": 1,
+            "diff": 1.0,
+            "reasoning": "The explanation of how New Deal policies set the stage for later ideological battles provides sufficient historical context.",
+            "real_feedback": "The response did not earn the point for contextualization. There is an attempt at contextualization with \nthe reference to the Civil War in the second sentence, but it is a passing reference rephrasing the thesis \nin the following sentence."
+          },
+          "C": {
+            "name": "Evidence",
+            "real": 0,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 2.0,
+            "reasoning": "The response effectively uses specific pieces of evidence to support the argument regarding differing societal responses to economic changes.",
+            "real_feedback": "The response earned 0 points for describing at least two pieces of evidence relevant to the topic of \nthe prompt. The attempts to identify the \u201c40 6 40 line\u201d and \u201cslave rebellions\u201d are either historically \ninaccurate or too vague.\nThe response did not earn 1 point for using at least two pieces of evidence to support an argument in \nresponse to the prompt."
+          }
+        },
+        "strengths": [
+          "Clear, defensible thesis statement.",
+          "Effective use of historical context to frame the argument.",
+          "Strong evidence used to support the prompt's requirements.",
+          "Consistent and logical analysis of opposing perspectives (liberal vs. conservative)."
+        ],
+        "areas_for_improvement": [
+          "Proofread for minor typos (e.g., 'praize', 'Reagonomics', 'ecnomic').",
+          "Further detail on specific societal movements outside of political elite reactions (e.g., grass-roots organizations or labor groups) could add depth."
+        ],
+        "final_feedback": "This is a well-structured and analytically sound essay. You successfully linked the ideological precedents of the New Deal to the later economic policies of the Great Society and the Reagan era. Your consistent use of evidence to support the differing societal responses ensures that your argument is well-supported and persuasive. Please continue to focus on minor spelling and grammatical accuracy to ensure the most professional presentation of your analysis."
+      },
+      {
+        "prompt": "Evaluate how United States foreign policy responded to changes in the world from 1890 to 1930. ",
+        "essay_id": "25 Set 1 Sample C",
+        "error": false,
+        "real_total": 2,
+        "ai_total": 6.0,
+        "total_possible": 6,
+        "total_diff": 4.0,
+        "criteria_diffs": {
+          "A": {
+            "name": "Thesis/Claim",
+            "real": 0,
+            "ai": null,
+            "possible": 1,
+            "diff": null,
+            "reasoning": "",
+            "real_feedback": "The response did not earn the point for thesis/claim. The attempted thesis statement is offered in the \nfirst sentence, \u201cThe United States foreign policy responded to changes in the world from 1890 to 1930 \nby getting involved in World War I.\u201d This statement is a historically defensible claim, but it does not \nestablish a line of reasoning."
+          },
+          "B": {
+            "name": "Contextualization",
+            "real": 1,
+            "ai": 1.0,
+            "possible": 1,
+            "diff": 0.0,
+            "reasoning": "The explanation of the New Deal and the ideological debates surrounding government intervention effectively provides the broader historical context required to understand the subsequent reactions to the Great Society and Reaganomics.",
+            "real_feedback": "The response earned 1 point for contextualization. The second sentence of the first paragraph describes \nGeorge Washington\u2019s Farewell Address."
+          },
+          "C": {
+            "name": "Evidence",
+            "real": 1,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 1.0,
+            "reasoning": "The author provides sufficient specific evidence and effectively uses that evidence to support the argument that economic policies created distinct societal reactions among liberals and conservatives.",
+            "real_feedback": "The response earned 1 point for using evidence. It identifies United States involvement in the First World \nWar and the Treaty of Versailles as two pieces of evidence relevant to the topic of the prompt. \nThe response did not earn the second evidence point as it does not use evidence to support an argument \nrelevant to the prompt."
+          },
+          "D": {
+            "name": "Analysis and Reasoning",
+            "real": 0,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 2.0,
+            "reasoning": "The essay consistently applies a comparative framework across different economic eras, demonstrating sophisticated argumentation by consistently framing societal reactions as a spectrum of political disagreement.",
+            "real_feedback": "The response did not earn the point for using historical reasoning. The attempt to show how the First \nWorld War caused a change in United States foreign policy inaccurately claims that the \u201cUnited States \nended up not joining the league of nations and instead joined NATO.\u201d \nThe response did not earn the point for demonstrating a complex understanding because it makes no \nattempt at sophisticated argumentation or effective use of evidence."
+          }
+        },
+        "strengths": [
+          "Clear, organized thesis statement.",
+          "Strong use of historical context regarding the New Deal.",
+          "Effective application of historical reasoning (comparison of political perspectives).",
+          "Relevant and specific evidence used to substantiate arguments."
+        ],
+        "areas_for_improvement": [
+          "While the analysis is strong, the essay could be improved by exploring the perspectives of non-political entities or groups whose response to these economic changes was not strictly binary (liberal/conservative), such as specific labor unions or corporate interests, to further increase nuance."
+        ],
+        "final_feedback": "This is a very strong response that effectively evaluates how different political factions within American society responded to economic shifts between 1960 and 2000. Your use of the New Deal as a comparative contextual piece was excellent, and your argument remained focused and well-supported throughout the essay. Great job."
+      },
+      {
+        "prompt": "Evaluate how Native American societies adapted to the presence of European colonists in North America from 1500 to 1754. ",
+        "essay_id": "25 Set 1 Sample C",
+        "error": false,
+        "real_total": 2,
+        "ai_total": 6.0,
+        "total_possible": 6,
+        "total_diff": 4.0,
+        "criteria_diffs": {
+          "A": {
+            "name": "Thesis/Claim",
+            "real": 1,
+            "ai": null,
+            "possible": 1,
+            "diff": null,
+            "reasoning": "",
+            "real_feedback": "The response earned 1 point for a historically defensible thesis that establishes a line of reasoning in \nthe final sentence of the first paragraph: \u201cThe Native American greatly adapted to the presence of the \nEuropeans by trading with them and conquring new land westward.\u201d"
+          },
+          "B": {
+            "name": "Contextualization",
+            "real": 0,
+            "ai": 1.0,
+            "possible": 1,
+            "diff": 1.0,
+            "reasoning": "The student provides a clear historical bridge from the 1930s to the prompt's time period, establishing how previous economic policy conflicts shaped later societal attitudes.",
+            "real_feedback": "The response does not earn a point for contextualization, despite an attempt to do so in the first \nparagraph. However, the two sentences are too vague and overgeneralized."
+          },
+          "C": {
+            "name": "Evidence",
+            "real": 0,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 2.0,
+            "reasoning": "The evidence is relevant, specific, and used to support the argument regarding how different segments of society reacted to specific economic policies.",
+            "real_feedback": "The response does not earn any points for use of evidence, despite numerous attempts to do so. The \nexamples given are inaccurate, outside the time period of the question, or insufficiently described."
+          },
+          "D": {
+            "name": "Analysis and Reasoning",
+            "real": 1,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 1.0,
+            "reasoning": "The response achieves a complex understanding by not just stating facts, but by analyzing the 'why' behind the polarized reactions to economic policy, effectively contrasting liberal and conservative perspectives throughout the piece.",
+            "real_feedback": "The response earns 1 point for analysis by using the historical skill of causation, arguing that smallpox \nintroduced by the Spanish was \u201ccausing them to adapt to new land westward\u201d in the fourth paragraph. \nWhile that text refers to South America, the response clarifies in the next sentence that a similar effect \nhappened in North America as well, arguing that contact with the British resulted in Native Americans \ngetting \u201cpushed back from the coast and rivers.\u201d \nThe response did not earn the point for demonstrating a complex understanding because it makes no \nattempt at sophisticated argumentation or effective use of evidence."
+          }
+        },
+        "strengths": [
+          "Clear, well-structured argument that directly addresses the prompt.",
+          "Effective use of historical context (the New Deal) to frame subsequent events.",
+          "Strong evidence usage (Medicare, Medicaid, Reaganomics) to support the analysis.",
+          "Sophisticated analysis of how ideological lenses caused different societal reactions to the same economic shifts."
+        ],
+        "areas_for_improvement": [
+          "While the analysis is strong, the essay could be further improved by incorporating more specific societal responses beyond political/ideological ones, such as cultural movements or grassroots activism related to economic conditions."
+        ],
+        "final_feedback": "This is a high-quality essay that demonstrates a strong grasp of the period and the prompt. You successfully synthesized economic policies with the resulting societal reactions. Your contextualization was particularly strong, as it provided necessary weight to your argument about the ideological divide. To reach even higher levels of sophistication in future essays, you might consider incorporating more specific details about how these policies impacted the daily lives of citizens beyond just the ideological rhetoric."
+      },
+      {
+        "prompt": "Evaluate how British colonists in the Americas adapted to their environments from 1607 to 1754. ",
+        "essay_id": "25 Set 2 Sample C",
+        "error": false,
+        "real_total": 2,
+        "ai_total": 6.0,
+        "total_possible": 6,
+        "total_diff": 4.0,
+        "criteria_diffs": {
+          "A": {
+            "name": "Thesis/Claim",
+            "real": 1,
+            "ai": null,
+            "possible": 1,
+            "diff": null,
+            "reasoning": "",
+            "real_feedback": "The response earned 1 point for the thesis. The last sentence of the first paragraph claims that \u201cThe \nbritish colonist in the americas significantly adapted to thier environments from 1607 to 1754 due to the \nsocial and economic events such as trading with the American Indians and growing crops.\u201d This claim \nresponds to the prompt with a historically defensible line of reasoning."
+          },
+          "B": {
+            "name": "Contextualization",
+            "real": 0,
+            "ai": 1.0,
+            "possible": 1,
+            "diff": 1.0,
+            "reasoning": "The connection between the New Deal and the subsequent debates over the Great Society and Reaganomics provides sufficient historical context.",
+            "real_feedback": "The response did not earn 1 point for contextualization. The passing reference to the Columbian \nExchange is too vague."
+          },
+          "C": {
+            "name": "Evidence",
+            "real": 1,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 1.0,
+            "reasoning": "The essay uses specific examples of economic policy to support the argument about societal polarization.",
+            "real_feedback": "The response earned 1 point for providing two specific pieces of evidence relevant to the prompt. In \nthe second paragraph, the response provides a general discussion of two different aspects of European \ncolonization and trade by mentioning religious freedom and trade with Native Americans. Paragraph \nthree makes specific reference to growing corn and tobacco and discusses the development of plantation \neconomies in the southern colonies, specifically mentioning the rise of slavery.\nThe response did not earn the second point for evidence as its attempts to use evidence to support an \nargument were either too vague or not connected to the prompt."
+          },
+          "D": {
+            "name": "Analysis and Reasoning",
+            "real": 0,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 2.0,
+            "reasoning": "The response demonstrates a complex understanding by consistently framing economic changes through the lens of ideological conflict, providing a nuanced view of how different segments of society responded to the same policies.",
+            "real_feedback": "The response did not earn the point for historical reasoning. The response mentions continuity over time \nin paragraph two, but the explanation of trade development is not connected to the prompt.\nThe response did not earn the point for demonstrating a complex understanding because it makes no \nattempt at sophisticated argumentation or effective use of evidence."
+          }
+        },
+        "strengths": [
+          "Clear, well-structured argument that directly addresses the prompt.",
+          "Effective use of historical context (New Deal) to frame later events.",
+          "Strong balance of perspectives (liberal vs. conservative reactions)."
+        ],
+        "areas_for_improvement": [
+          "While the essay covers the 1960s-80s well, it could broaden the scope slightly to capture more of the 1990s to better represent the full 2000 timeframe.",
+          "Some terminology like 'happy response' or 'conservative joy' could be replaced with more formal academic language."
+        ],
+        "final_feedback": "This is a very strong, well-organized essay that effectively balances historical evidence with a clear analytical framework. You successfully navigated the ideological landscape of the era and provided a coherent thesis that was supported throughout the body paragraphs."
+      },
+      {
+        "prompt": "Evaluate how United States society responded to economic changes from 1960 to 2000. ",
+        "essay_id": "25 Set 2 Sample B",
+        "error": false,
+        "real_total": 4,
+        "ai_total": 6.0,
+        "total_possible": 6,
+        "total_diff": 2.0,
+        "criteria_diffs": {
+          "A": {
+            "name": "Thesis/Claim",
+            "real": 0,
+            "ai": null,
+            "possible": 1,
+            "diff": null,
+            "reasoning": "",
+            "real_feedback": "The response did not earn the point for thesis/claim. The response attempts a thesis statement at the \nend of the first paragraph, but the language is a restatement of the prompt: \u201cUnited States society had a \nsignficant response to the economic changes seen in American economics from 1960 to 2000.\u201d"
+          },
+          "B": {
+            "name": "Contextualization",
+            "real": 1,
+            "ai": 1.0,
+            "possible": 1,
+            "diff": 0.0,
+            "reasoning": "The student successfully connects the post-1960 economic debates to the foundational ideological shifts established during the New Deal era.",
+            "real_feedback": "The response earned 1 point for contextualization. In the beginning of the first paragraph, the response \ndescribes information immediately prior to the prompt period from 1960 to 2000, discussing the return of \nsoldiers after the Second World War and the accompanying growth of suburbs."
+          },
+          "C": {
+            "name": "Evidence",
+            "real": 2,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 0.0,
+            "reasoning": "The response consistently uses relevant, specific evidence to illustrate the differing societal reactions to the policies mentioned.",
+            "real_feedback": "The response earned 1 point for using evidence because it describes multiple pieces of relevant historical \nevidence. The response describes NAFTA, suburbanization, and the election of Ronald Reagan.\nThe response earned 1 point for using at least two specific historical examples to support an argument \nin response to the prompt. The response supports an argument about how many Americans responded \nwith \u201coutrage\u201d against United States companies that sought to increase their profitability by relocating \nfactories to foreign countries. Additionally, the response supports an argument that the rise of suburban \nareas accompanied the rise of skilled white collar jobs and subsequently saw a corresponding reduction \nin factory jobs utilizing unskilled labor, leading to high unemployment among blue collar workers."
+          },
+          "D": {
+            "name": "Analysis and Reasoning",
+            "real": 1,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 1.0,
+            "reasoning": "The essay goes beyond simple description by analyzing the 'why' behind the responses, demonstrating a nuanced understanding of political polarization in response to economic policy.",
+            "real_feedback": "The response earned 1 point for using historical reasoning because of the discussion of Ronald Reagan\u2019s \ntrickle-down economics. The response demonstrates historical reasoning through continuity and change \nin arguing that, \u201cWhile trickle down economics did have the desired effect at the begining, it quickly \nbegan to instead create a drastic wage gap.\u201d\nThe response did not earn the point for demonstrating a complex understanding because it makes no \nattempt at sophisticated argumentation or effective use of evidence."
+          }
+        },
+        "strengths": [
+          "Clear, well-structured thesis.",
+          "Strong use of historical context regarding the New Deal.",
+          "Good use of relevant terminology like 'supply-side economics' and 'new federalism'.",
+          "Effective analysis of ideological divides."
+        ],
+        "areas_for_improvement": [
+          "Minor spelling errors such as 'praize' (praise), 'reagonomics' (Reaganomics), 'ecnomic' (economic), and 'critisized' (criticized) should be corrected for academic polish.",
+          "The analysis could be further strengthened by briefly referencing specific legislation or economic indicators beyond general policy names."
+        ],
+        "final_feedback": "This is a very strong essay that meets all the criteria of the rubric. You have effectively used evidence to support a clear, organized argument. Your ability to compare liberal and conservative responses provides the necessary depth for the higher scores in analysis. In future writing, focus on proofreading to ensure your academic tone is not diminished by minor spelling errors."
+      },
+      {
+        "prompt": "Evaluate how different reform movements in the United States responded to industrialization from 1820 to 1900. ",
+        "essay_id": "25 Set 1 Sample B",
+        "error": false,
+        "real_total": 4,
+        "ai_total": 6.0,
+        "total_possible": 6,
+        "total_diff": 2.0,
+        "criteria_diffs": {
+          "A": {
+            "name": "Thesis/Claim",
+            "real": 1,
+            "ai": null,
+            "possible": 1,
+            "diff": null,
+            "reasoning": "",
+            "real_feedback": "The response earned 1 point for the thesis. The first sentence claims that \u201cReform movements had \na radical responses to Industrialization because of unjust labor and big buisnesses.\u201d The response \nestablishes a minimally acceptable claim with a line of reasoning."
+          },
+          "B": {
+            "name": "Contextualization",
+            "real": 0,
+            "ai": 1.0,
+            "possible": 1,
+            "diff": 1.0,
+            "reasoning": "The essay connects the pre-1960 economic landscape (New Deal) to the later debates over the Great Society and Reaganomics, effectively setting the stage.",
+            "real_feedback": "The response did not earn the point for contextualization because no attempt was made to provide a \nbroader historical context relevant to the prompt."
+          },
+          "C": {
+            "name": "Evidence",
+            "real": 2,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 0.0,
+            "reasoning": "The response uses multiple relevant pieces of evidence to support the argument about how different political groups perceived specific economic policies.",
+            "real_feedback": "The response earned 2 points for evidence. The response provides many examples of evidence, including \nthe Lowell mill girls, unionization, horizontal integration, and industrialists such as John D. Rockefeller \nand Andrew Carnegie.  \nThe response uses evidence of the Lowell mill girls and labor organizations to support an argument that \nunjust factory conditions led to strikes for \u201cbetter pay, breaks in their work day, and better conditions.\u201d"
+          },
+          "D": {
+            "name": "Analysis and Reasoning",
+            "real": 1,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 1.0,
+            "reasoning": "The essay uses consistent comparative reasoning and effectively qualifies its argument by showing that responses to economic changes were not monolithic, but rather dictated by political identity.",
+            "real_feedback": "The response earned 1 point for using historical reasoning through causation. The response discusses \nhow the growth of big business contributed to the spread of industrial labor conditions such as assembly \nlines that devalued specialized labor. \nThe response did not earn the point for demonstrating a complex understanding because it makes no \nattempt at sophisticated argumentation or effective use of evidence."
+          }
+        },
+        "strengths": [
+          "Well-structured thesis statement.",
+          "Strong use of historical context to frame the ideological conflict.",
+          "Effective application of evidence to support the prompt's requirements.",
+          "Solid comparative analysis of shifting political responses to economic policy."
+        ],
+        "areas_for_improvement": [
+          "Some terminology, such as 'Reagonomics', could be spelled more consistently.",
+          "The scope could be expanded to include more social impacts beyond just political debate, such as how these policies affected specific demographics or social movements (e.g., labor unions, environmental groups, or women's rights groups)."
+        ],
+        "final_feedback": "This is a strong essay that effectively evaluates how different segments of society responded to economic changes between 1960 and 2000. Your thesis is clear, your use of contextualization regarding the New Deal provides excellent depth, and your evidence is specific and well-integrated. Your analysis successfully demonstrates a comparative understanding of political ideologies. To improve further, ensure consistency in spelling and consider exploring how these economic changes manifested in non-political sectors of society, such as changing demographics or culture, to add even more nuance."
+      },
+      {
+        "prompt": "Evaluate how United States foreign policy responded to changes in the world from 1890 to 1930. ",
+        "essay_id": "25 Set 1 Sample B",
+        "error": false,
+        "real_total": 4,
+        "ai_total": 6.0,
+        "total_possible": 2,
+        "total_diff": 2.0,
+        "criteria_diffs": {
+          "D": {
+            "name": "Analysis and Reasoning",
+            "real": 1,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 1.0,
+            "reasoning": "The essay consistently uses historical reasoning (comparison/causation) to analyze how society interacted with economic changes, maintaining a sophisticated focus on multiple perspectives throughout.",
+            "real_feedback": "The response earned 1 point for using historical reasoning. The response earned this first point because \nit frames an argument about the change in United States foreign policy from isolationism to becoming a \nworld power, despite opposition to joining the League of Nations. \nThe erroneous identification of anti-imperialism as the objection does not detract from the use of the \nhistorical thinking skill. \nThe response did not earn the point for demonstrating a complex understanding. The response attempts \nto make a complex argument by addressing multiple perspectives but it does not earn the point because \nthe discussion is vague and contains historical inaccuracies."
+          }
+        },
+        "strengths": [
+          "Well-structured argument that maintains a consistent thesis.",
+          "Strong use of historical context to frame the core argument.",
+          "Effective application of evidence to support the analysis of ideological divisions."
+        ],
+        "areas_for_improvement": [
+          "The essay could further strengthen its analysis by incorporating more specific counter-arguments or acknowledging complexities within the 'liberal' or 'conservative' groups (e.g., noting that some conservatives supported certain aspects of the Great Society).",
+          "Proofreading to correct minor spelling errors (e.g., 'reagonomics', 'praize', 'ecnomic')."
+        ],
+        "final_feedback": "This is a strong essay that successfully fulfills all rubric requirements. Your argument is well-supported with relevant historical evidence, and you demonstrate a clear understanding of the ideological conflicts that defined the period. Your contextualization effectively bridges the gap between the New Deal and the era of Reaganomics. To further elevate your writing, consider adding more specific examples of grassroots reactions or debates from the time period to provide even more depth to your analysis of 'society's' response."
+      },
+      {
+        "prompt": "Evaluate how Native American societies adapted to the presence of European colonists in North America from 1500 to 1754. ",
+        "essay_id": "25 Set 1 Sample B",
+        "error": false,
+        "real_total": 4,
+        "ai_total": 6.0,
+        "total_possible": 4,
+        "total_diff": 2.0,
+        "criteria_diffs": {
+          "A": {
+            "name": "Thesis/Claim",
+            "real": 1,
+            "ai": null,
+            "possible": 1,
+            "diff": null,
+            "reasoning": "",
+            "real_feedback": "The response earned 1 point because it provides a historically defensible claim that establishes a \nreasoning in the final sentence of the first paragraph, stating \u201cNative amercian societies adapted to \nthe presence of european colonists in north amercia from 1500 to 1754 by fighting with them over \nterritory, and assimilating to european culture.\u201d"
+          },
+          "B": {
+            "name": "Contextualization",
+            "real": 1,
+            "ai": 1.0,
+            "possible": 1,
+            "diff": 0.0,
+            "reasoning": "The student identifies how the ideological legacy of the New Deal set the stage for later debates over government intervention, effectively providing relevant context.",
+            "real_feedback": "The response earned 1 point for contextualizing the time period by providing the reasons for European \nexploration and contact with Native Americans in the opening sentences of the response."
+          },
+          "C": {
+            "name": "Evidence",
+            "real": 1,
+            "ai": 2.0,
+            "possible": 2,
+            "diff": 1.0,
+            "reasoning": "The evidence is not only specific but is used to support the argument that these economic policies provoked polarized societal reactions.",
+            "real_feedback": "The response earned 1 point for evidence. The response earns the first point for describing several \nexamples of evidence such as the Columbian Exchange, King Philip\u2019s War, and the French and Indian \nWar, but does not effectively use them to support an argument. The response\u2019s discussion of the \nCherokee Nation is outside the time period of the prompt."
+          }
+        },
+        "strengths": [
+          "Clear, well-structured thesis statement.",
+          "Strong use of specific terminology (supply-side economics, New Federalism).",
+          "Consistent focus on the prompt throughout the body paragraphs."
+        ],
+        "areas_for_improvement": [
+          "While the argument is sound, adding more diverse voices beyond just 'liberal' and 'conservative' political labels could enhance the nuance of the social response.",
+          "Proofread for minor spelling errors (e.g., 'praize', 'Reagonomics', 'rebuttal')."
+        ],
+        "final_feedback": "This is a strong, well-reasoned essay. You successfully met all the rubric criteria. You established a clear thesis, provided relevant historical context by connecting to the New Deal, used specific and accurate evidence, and employed effective historical reasoning. The essay is well-organized and stays focused on the prompt throughout."
+      },
+      {
+        "prompt": "Evaluate how sectional tensions shaped United States society from 1800 to 1848. ",
+        "essay_id": "25 Set 2 Sample B",
+        "error": false,
+        "real_total": 4,
+        "ai_total": 6.0,
+        "total_possible": 0,
+        "total_diff": 2.0,
+        "criteria_diffs": {},
+        "strengths": [
+          "Clear, cohesive thesis statement.",
+          "Strong use of historical context (the New Deal) to bridge time periods.",
+          "Good integration of specific terminology like 'supply-side economics' and 'trickle-down theory'.",
+          "Balanced treatment of opposing political viewpoints."
+        ],
+        "areas_for_improvement": [
+          "While the argument is clear, adding specific examples of 'liberal protests' or specific 'conservative' groups (beyond general characterization) could deepen the evidence.",
+          "Correct minor spelling errors such as 'praize', 'Reagonomics', and 'convervatives' to maintain academic tone."
+        ],
+        "final_feedback": "This is a very strong essay. You successfully met all rubric criteria by providing a clear thesis, using relevant historical context, supporting your claims with specific evidence, and maintaining a sophisticated analysis throughout. Your ability to compare how different political ideologies responded to specific economic policies (The Great Society vs. Reaganomics) demonstrates a strong grasp of the historical period. To further improve, ensure you proofread for spelling errors and look for opportunities to include more granular detail about the specific movements (e.g., protest groups or specific policy debates) that characterized these responses."
+      },
+      {
+        "prompt": "Evaluate how British colonists in the Americas adapted to their environments from 1607 to 1754. ",
+        "essay_id": "25 Set 2 Sample B",
+        "error": false,
+        "real_total": 3,
+        "ai_total": 5.0,
+        "total_possible": 2,
+        "total_diff": 2.0,
+        "criteria_diffs": {
+          "A": {
+            "name": "Thesis/Claim",
+            "real": 1,
+            "ai": null,
+            "possible": 1,
+            "diff": null,
+            "reasoning": "",
+            "real_feedback": "The response earned 1 point for the thesis. The first sentence of the response responds to the prompt \nwith a historically defensible line of reasoning: \u201cBritish colonists in 1607 to 1754 adapted to their \nenvironments in a vareity of ways including making connections with the Native Americans and by \nusing the land to grow beneficial crops.\u201d"
+          },
+          "B": {
+            "name": "Contextualization",
+            "real": 0,
+            "ai": 1.0,
+            "possible": 1,
+            "diff": 1.0,
+            "reasoning": "The explanation of the New Deal provides a relevant broader historical process occurring before the prompt's period that directly shapes the subsequent argument. No additional points are possible.",
+            "real_feedback": "The response did not earn the point for contextualization. The response attempts context in the first \nparagraph; however, this attempt is overly generalized."
+          }
+        },
+        "strengths": [
+          "The essay maintains a clear and consistent argument throughout.",
+          "Excellent use of contextualization to link the New Deal to later economic debates.",
+          "Strong use of specific examples to support the thesis."
+        ],
+        "areas_for_improvement": [
+          "Avoid repetitive phrasing and structure (e.g., 'liberal viewers... conservative opposition').",
+          "Engage with the complexity of the period by discussing factors beyond just binary political ideology.",
+          "Explore how the societal response changed over the course of the four decades rather than treating the entire period as a static reaction."
+        ],
+        "final_feedback": "This is a well-structured and historically grounded essay. You have a strong grasp of the prompt and have built a coherent argument supported by relevant evidence. To improve, aim for greater sophistication in your analysis. Instead of relying on a recurring pattern of 'liberals liked this and conservatives disliked that' (and vice versa), try to synthesize how these economic shifts created more nuanced societal outcomes, such as the shifting role of the middle class, the impact of specific recessions, or the evolution of public opinion over time."
+      }
+    ],
+    "criteria": {
+      "A": {
+        "name": "Thesis/Claim",
+        "n": 3,
+        "mae": 0.0,
+        "mean_bias": 0.0,
+        "exact_pct": 100.0
+      },
+      "B": {
+        "name": "Contextualization",
+        "n": 15,
+        "mae": 0.4,
+        "mean_bias": 0.4,
+        "exact_pct": 60.0
+      },
+      "C": {
+        "name": "Evidence",
+        "n": 13,
+        "mae": 0.6923076923076923,
+        "mean_bias": 0.6923076923076923,
+        "exact_pct": 53.84615384615385
+      },
+      "D": {
+        "name": "Analysis and Reasoning",
+        "n": 10,
+        "mae": 1.0,
+        "mean_bias": 1.0,
+        "exact_pct": 30.0
+      }
+    }
+  },
+  "results": [
+    {
+      "prompt": "Evaluate how United States society responded to economic changes from 1960 to 2000. ",
+      "essay_id": "25 Set 2 Sample A",
+      "error": false,
+      "real_total": 6,
+      "ai_total": 6.0,
+      "total_possible": 6,
+      "total_diff": 0.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 0.0,
+          "reasoning": "The thesis is historically defensible and establishes a clear line of reasoning regarding how American society responded to economic changes through ideological divisions.",
+          "real_feedback": "The response earned 1 point for the thesis. The response establishes a line of reasoning in the opening \nsentence: \u201cAmerican society from 1960 to 2000 responded to the economic changes such as the great \nsociety, and reagonomics either through mass praize, or protest depending on the political leaning of the \nindividual.\u201d"
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 1,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 0.0,
+          "reasoning": "The contextualization is strong, explaining the ideological precedents of the 1930s to set the stage for the societal responses between 1960 and 2000.",
+          "real_feedback": "The response earned 1 point for contextualization. In the second paragraph, the response describes \neconomic developments prior to the period of the prompt, including the New Deal and conservative \nopposition to the New Deal."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 2,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 0.0,
+          "reasoning": "The student provides sufficient, accurate evidence to support the argument and ties these specific policies directly to the societal reactions being discussed.",
+          "real_feedback": "The response earned 1 point for evidence. Beginning in the second paragraph, the response identifies a \nvariety of examples relevant to the prompt, including the Great Society programs and Reaganomics.\nThe response earned 1 point because it used historical evidence to support an argument. The response \nargues that Lyndon Johnson\u2019s Great Society programs were praised by liberal politicians and members of \nsociety, as they helped elevate the social standing of the people experiencing poverty. Conversely, Ronald \nReagan\u2019s \u201cReaganomics\u201d is used as evidence of the conservative response to the growth of government \nfrom liberal policies, resulting in \u201cliberal protest and conservative content.\u201d"
+        },
+        "D": {
+          "name": "Analysis and Reasoning",
+          "real": 2,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 0.0,
+          "reasoning": "The student utilizes comparison and analysis of perspectives throughout the essay, demonstrating a nuanced understanding of how political ideology shaped public response to economic policy.",
+          "real_feedback": "The response earned 1 point for using historical reasoning to frame an argument in relation to the \nprompt. The response discusses the effects of liberal and conservative government policies with \nreference to how they led to political criticism depending on the background of the group.\nThe response earned 1 point because it demonstrates a complex understanding through its effective use \nof evidence in paragraphs three and four, showing a sophisticated understanding of different perspectives \nrelevant to the prompt."
+        }
+      },
+      "strengths": [
+        "Clear, well-structured arguments that directly address the prompt.",
+        "Strong use of historical context (the New Deal) to explain ideological shifts.",
+        "Good integration of specific, relevant historical evidence.",
+        "Consistent and logical analysis of how different groups perceived economic policy changes."
+      ],
+      "areas_for_improvement": [
+        "While the analysis is strong, the essay could be further improved by discussing the nuance of how these debates changed over the four-decade period, rather than treating the periods as binary 'liberal vs. conservative' reactions.",
+        "Ensure more careful proofreading to address recurring minor spelling errors (e.g., 'Reagonomics', 'praize', 'convervatives')."
+      ],
+      "final_feedback": "This is a very strong response. You successfully established a clear thesis, provided excellent contextualization by connecting the era of 1960-2000 to the legacy of the New Deal, and used your evidence effectively to build an argument. Your ability to compare how different political groups responded to specific economic changes demonstrates a sophisticated understanding of the period. Keep up the high level of analysis in your future writing!"
+    },
+    {
+      "prompt": "Evaluate how United States society responded to economic changes from 1960 to 2000. ",
+      "essay_id": "25 Set 2 Sample B",
+      "error": false,
+      "real_total": 4,
+      "ai_total": 6.0,
+      "total_possible": 6,
+      "total_diff": 2.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 0,
+          "ai": null,
+          "possible": 1,
+          "diff": null,
+          "reasoning": "",
+          "real_feedback": "The response did not earn the point for thesis/claim. The response attempts a thesis statement at the \nend of the first paragraph, but the language is a restatement of the prompt: \u201cUnited States society had a \nsignficant response to the economic changes seen in American economics from 1960 to 2000.\u201d"
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 1,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 0.0,
+          "reasoning": "The student successfully connects the post-1960 economic debates to the foundational ideological shifts established during the New Deal era.",
+          "real_feedback": "The response earned 1 point for contextualization. In the beginning of the first paragraph, the response \ndescribes information immediately prior to the prompt period from 1960 to 2000, discussing the return of \nsoldiers after the Second World War and the accompanying growth of suburbs."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 2,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 0.0,
+          "reasoning": "The response consistently uses relevant, specific evidence to illustrate the differing societal reactions to the policies mentioned.",
+          "real_feedback": "The response earned 1 point for using evidence because it describes multiple pieces of relevant historical \nevidence. The response describes NAFTA, suburbanization, and the election of Ronald Reagan.\nThe response earned 1 point for using at least two specific historical examples to support an argument \nin response to the prompt. The response supports an argument about how many Americans responded \nwith \u201coutrage\u201d against United States companies that sought to increase their profitability by relocating \nfactories to foreign countries. Additionally, the response supports an argument that the rise of suburban \nareas accompanied the rise of skilled white collar jobs and subsequently saw a corresponding reduction \nin factory jobs utilizing unskilled labor, leading to high unemployment among blue collar workers."
+        },
+        "D": {
+          "name": "Analysis and Reasoning",
+          "real": 1,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 1.0,
+          "reasoning": "The essay goes beyond simple description by analyzing the 'why' behind the responses, demonstrating a nuanced understanding of political polarization in response to economic policy.",
+          "real_feedback": "The response earned 1 point for using historical reasoning because of the discussion of Ronald Reagan\u2019s \ntrickle-down economics. The response demonstrates historical reasoning through continuity and change \nin arguing that, \u201cWhile trickle down economics did have the desired effect at the begining, it quickly \nbegan to instead create a drastic wage gap.\u201d\nThe response did not earn the point for demonstrating a complex understanding because it makes no \nattempt at sophisticated argumentation or effective use of evidence."
+        }
+      },
+      "strengths": [
+        "Clear, well-structured thesis.",
+        "Strong use of historical context regarding the New Deal.",
+        "Good use of relevant terminology like 'supply-side economics' and 'new federalism'.",
+        "Effective analysis of ideological divides."
+      ],
+      "areas_for_improvement": [
+        "Minor spelling errors such as 'praize' (praise), 'reagonomics' (Reaganomics), 'ecnomic' (economic), and 'critisized' (criticized) should be corrected for academic polish.",
+        "The analysis could be further strengthened by briefly referencing specific legislation or economic indicators beyond general policy names."
+      ],
+      "final_feedback": "This is a very strong essay that meets all the criteria of the rubric. You have effectively used evidence to support a clear, organized argument. Your ability to compare liberal and conservative responses provides the necessary depth for the higher scores in analysis. In future writing, focus on proofreading to ensure your academic tone is not diminished by minor spelling errors."
+    },
+    {
+      "prompt": "Evaluate how different reform movements in the United States responded to industrialization from 1820 to 1900. ",
+      "essay_id": "25 Set 1 Sample A",
+      "error": false,
+      "real_total": 6,
+      "ai_total": 6.0,
+      "total_possible": 6,
+      "total_diff": 0.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": null,
+          "possible": 1,
+          "diff": null,
+          "reasoning": "",
+          "real_feedback": "The response earned 1 point for the thesis. Located in the final sentence of the first paragraph, the \nresponse argues that the efforts for women\u2019s rights, labor unions, and immigrant advocacy were \nresponses to industrialization."
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 1,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 0.0,
+          "reasoning": "The student provides a relevant historical background concerning the New Deal, which effectively sets the stage for the ideological divide over subsequent economic policies in the latter half of the 20th century.",
+          "real_feedback": "The response earned 1 point for contextualization. The introductory paragraph discusses the evolution of \nUnited States society in the late 1700s and early 1800s, focusing on debates about economic policy, the \nemergence of factories, and the growth of cities."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 2,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 0.0,
+          "reasoning": "The essay uses these pieces of evidence to support the argument that American society was divided by these policies along ideological lines, fulfilling the requirement for 2 points.",
+          "real_feedback": "The response earned 2 points for using evidence. The response uses multiple specific pieces of evidence \nsuch as the Lowell mills, the Seneca Falls Convention, the Knights of Labor, Jane Addams, and Hull \nHouse.\nThe response earned the second point for evidence. The second paragraph uses both the Lowell mills \nand the Seneca Falls Convention to argue that wage and working conditions caused by industrialization \nled to reform advocacy. In addition, paragraph four describes the work of Jane Addams and Hull House, \ntying them to an argument about how reformers sought to assist low-wage immigrant laborers in \nindustrialized United States cities."
+        },
+        "D": {
+          "name": "Analysis and Reasoning",
+          "real": 2,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 0.0,
+          "reasoning": "The student does not just list events but structures the argument around the interplay between policy and public reception, demonstrating a sophisticated ability to explain how political perspectives shaped societal responses.",
+          "real_feedback": "The response earned 1 point for historical reasoning. The response argues that the Knights of Labor \nformed \u201cas a result of poor working conditions caused by industrialization\u201d and then details its reform \nobjectives, ranging from shorter days and better wages to going on strike."
+        }
+      },
+      "strengths": [
+        "Clear, logical structure that follows the progression of economic policies.",
+        "Strong use of historical terminology such as 'trickle down theory', 'supply-side economics', and 'New Federalism'.",
+        "Effective contextualization of the prompt."
+      ],
+      "areas_for_improvement": [
+        "While the essay is strong, incorporating more specific evidence from the 1990s (e.g., Clinton-era economic policies) would further broaden the coverage of the 1960-2000 timeframe.",
+        "Proofreading for minor spelling errors (e.g., 'reagonomics', 'praize', 'ecnomic')."
+      ],
+      "final_feedback": "This is an excellent essay. You successfully met all rubric criteria, providing a strong thesis, solid contextualization, relevant evidence, and sophisticated analysis. You effectively mapped societal responses to specific economic shifts. To improve further, ensure your essay covers the entire date range provided in the prompt equally; while the 1960s-1980s are covered well, the 1990s are slightly underrepresented. Great work."
+    },
+    {
+      "prompt": "Evaluate how different reform movements in the United States responded to industrialization from 1820 to 1900. ",
+      "essay_id": "25 Set 1 Sample B",
+      "error": false,
+      "real_total": 4,
+      "ai_total": 6.0,
+      "total_possible": 6,
+      "total_diff": 2.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": null,
+          "possible": 1,
+          "diff": null,
+          "reasoning": "",
+          "real_feedback": "The response earned 1 point for the thesis. The first sentence claims that \u201cReform movements had \na radical responses to Industrialization because of unjust labor and big buisnesses.\u201d The response \nestablishes a minimally acceptable claim with a line of reasoning."
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 0,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 1.0,
+          "reasoning": "The essay connects the pre-1960 economic landscape (New Deal) to the later debates over the Great Society and Reaganomics, effectively setting the stage.",
+          "real_feedback": "The response did not earn the point for contextualization because no attempt was made to provide a \nbroader historical context relevant to the prompt."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 2,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 0.0,
+          "reasoning": "The response uses multiple relevant pieces of evidence to support the argument about how different political groups perceived specific economic policies.",
+          "real_feedback": "The response earned 2 points for evidence. The response provides many examples of evidence, including \nthe Lowell mill girls, unionization, horizontal integration, and industrialists such as John D. Rockefeller \nand Andrew Carnegie.  \nThe response uses evidence of the Lowell mill girls and labor organizations to support an argument that \nunjust factory conditions led to strikes for \u201cbetter pay, breaks in their work day, and better conditions.\u201d"
+        },
+        "D": {
+          "name": "Analysis and Reasoning",
+          "real": 1,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 1.0,
+          "reasoning": "The essay uses consistent comparative reasoning and effectively qualifies its argument by showing that responses to economic changes were not monolithic, but rather dictated by political identity.",
+          "real_feedback": "The response earned 1 point for using historical reasoning through causation. The response discusses \nhow the growth of big business contributed to the spread of industrial labor conditions such as assembly \nlines that devalued specialized labor. \nThe response did not earn the point for demonstrating a complex understanding because it makes no \nattempt at sophisticated argumentation or effective use of evidence."
+        }
+      },
+      "strengths": [
+        "Well-structured thesis statement.",
+        "Strong use of historical context to frame the ideological conflict.",
+        "Effective application of evidence to support the prompt's requirements.",
+        "Solid comparative analysis of shifting political responses to economic policy."
+      ],
+      "areas_for_improvement": [
+        "Some terminology, such as 'Reagonomics', could be spelled more consistently.",
+        "The scope could be expanded to include more social impacts beyond just political debate, such as how these policies affected specific demographics or social movements (e.g., labor unions, environmental groups, or women's rights groups)."
+      ],
+      "final_feedback": "This is a strong essay that effectively evaluates how different segments of society responded to economic changes between 1960 and 2000. Your thesis is clear, your use of contextualization regarding the New Deal provides excellent depth, and your evidence is specific and well-integrated. Your analysis successfully demonstrates a comparative understanding of political ideologies. To improve further, ensure consistency in spelling and consider exploring how these economic changes manifested in non-political sectors of society, such as changing demographics or culture, to add even more nuance."
+    },
+    {
+      "prompt": "Evaluate how different reform movements in the United States responded to industrialization from 1820 to 1900. ",
+      "essay_id": "25 Set 1 Sample C",
+      "error": false,
+      "real_total": 1,
+      "ai_total": 6.0,
+      "total_possible": 6,
+      "total_diff": 5.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": null,
+          "possible": 1,
+          "diff": null,
+          "reasoning": "",
+          "real_feedback": "The response earned 1 point for the thesis. In the first paragraph, the response makes a historically \ndefensible argument that reform movements \u201cresponded to indurstialization\u201d through protests both by \nlabor unions and Congress."
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 0,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 1.0,
+          "reasoning": "The introductory context regarding the New Deal sets the stage for the ideological clash that defines the period from 1960-2000. It is specific enough to earn the point.",
+          "real_feedback": "The response did not earn the point for contextualization. The response has an attempt at the end of the \nfirst paragraph, but the discussion of migration from rural to urban areas is a passing reference and too \nvague."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 0,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 2.0,
+          "reasoning": "The author uses multiple specific examples of economic policy to support the argument regarding societal responses. The connection between policy and public perception is well-grounded in historical facts.",
+          "real_feedback": "The response did not earn the first point for evidence. The response references labor unions and \nexamples of their activity in the second paragraph, but the subsequent discussion of congressional \ntestimonies is too vague to count toward earning the point. \nThe response did not earn the second point for evidence. The response does not support an argument in \nresponse to the prompt using at least two pieces of specific and relevant evidence."
+        },
+        "D": {
+          "name": "Analysis and Reasoning",
+          "real": 0,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 2.0,
+          "reasoning": "The response effectively uses comparison and contrast to structure the argument. By explaining the motivations behind the 'joy' and 'unrest' of different factions, the student demonstrates a complex understanding of the ideological shifts during this period.",
+          "real_feedback": "The response did not earn the point for using historical reasoning. The second and third paragraphs \ndescribe labor conditions and attempts to address Congress, but this is not used to frame an argument \nthat addresses the prompt. \nThe response did not earn the point for demonstrating a complex understanding. The response makes no \nattempt at sophisticated argumentation or effective use of evidence."
+        }
+      },
+      "strengths": [
+        "Strong, clear thesis statement.",
+        "Effective use of historical comparisons to explain societal shifts.",
+        "Well-integrated specific evidence."
+      ],
+      "areas_for_improvement": [
+        "While the argument is strong, further exploration of specific societal events (such as specific protest movements or legislative debates) would deepen the analysis even further."
+      ],
+      "final_feedback": "This is an excellent essay. You successfully identified a clear line of reasoning in your thesis and maintained that focus throughout your body paragraphs. Your ability to provide concrete policy examples (like the Great Society and Supply-Side economics) and pair them with the corresponding societal reactions demonstrates a sophisticated understanding of the period. Your contextualization effectively bridges the gap between the mid-century New Deal and the late-century Reagan revolution. Well done."
+    },
+    {
+      "prompt": "Evaluate how United States foreign policy responded to changes in the world from 1890 to 1930. ",
+      "essay_id": "25 Set 1 Sample A",
+      "error": false,
+      "real_total": 6,
+      "ai_total": 6.0,
+      "total_possible": 2,
+      "total_diff": 0.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 0.0,
+          "reasoning": "The thesis is historically defensible and provides a clear line of reasoning that addresses the prompt.",
+          "real_feedback": "The response earned 1 point for thesis/claim. The thesis is historically defensible and can be found in \nthe last sentence of the introductory paragraph: \u201cBecause the country now played a bigger role in foreign \naffairs, it\u2019s foreign policy responded to changes in the world from 1890 to 1930 by adopting a role of \ninterventionism to adopting policies of isolationism.\u201d"
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 1,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 0.0,
+          "reasoning": "The essay effectively connects the New Deal's role in shaping future political debates, providing relevant historical context prior to the 1960 start date.",
+          "real_feedback": "The response earned 1 point for contextualization. In the opening paragraph, the response describes the \nbroader historical context of the end of slavery and the subsequent growth of the trade and economic \npolicies that \u201cconnected the country to the world.\u201d"
+        }
+      },
+      "strengths": [
+        "Strong, clear thesis statement.",
+        "Effective use of historical context to frame the argument.",
+        "Good use of specific examples to support analytical points.",
+        "Strong analytical structure highlighting the ideological divide in American society."
+      ],
+      "areas_for_improvement": [
+        "While the argument is strong, incorporating more diverse voices beyond just 'liberals' and 'conservatives' (such as specific interest groups or impacted demographics beyond 'poor and old') could deepen the analysis further."
+      ],
+      "final_feedback": "This is a well-structured and analytically sound essay. You successfully connected specific economic policies to the broader ideological tensions in American society between 1960 and 2000. Your use of the New Deal to provide context was particularly effective in establishing a framework for your argument."
+    },
+    {
+      "prompt": "Evaluate how United States foreign policy responded to changes in the world from 1890 to 1930. ",
+      "essay_id": "25 Set 1 Sample B",
+      "error": false,
+      "real_total": 4,
+      "ai_total": 6.0,
+      "total_possible": 2,
+      "total_diff": 2.0,
+      "criteria_diffs": {
+        "D": {
+          "name": "Analysis and Reasoning",
+          "real": 1,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 1.0,
+          "reasoning": "The essay consistently uses historical reasoning (comparison/causation) to analyze how society interacted with economic changes, maintaining a sophisticated focus on multiple perspectives throughout.",
+          "real_feedback": "The response earned 1 point for using historical reasoning. The response earned this first point because \nit frames an argument about the change in United States foreign policy from isolationism to becoming a \nworld power, despite opposition to joining the League of Nations. \nThe erroneous identification of anti-imperialism as the objection does not detract from the use of the \nhistorical thinking skill. \nThe response did not earn the point for demonstrating a complex understanding. The response attempts \nto make a complex argument by addressing multiple perspectives but it does not earn the point because \nthe discussion is vague and contains historical inaccuracies."
+        }
+      },
+      "strengths": [
+        "Well-structured argument that maintains a consistent thesis.",
+        "Strong use of historical context to frame the core argument.",
+        "Effective application of evidence to support the analysis of ideological divisions."
+      ],
+      "areas_for_improvement": [
+        "The essay could further strengthen its analysis by incorporating more specific counter-arguments or acknowledging complexities within the 'liberal' or 'conservative' groups (e.g., noting that some conservatives supported certain aspects of the Great Society).",
+        "Proofreading to correct minor spelling errors (e.g., 'reagonomics', 'praize', 'ecnomic')."
+      ],
+      "final_feedback": "This is a strong essay that successfully fulfills all rubric requirements. Your argument is well-supported with relevant historical evidence, and you demonstrate a clear understanding of the ideological conflicts that defined the period. Your contextualization effectively bridges the gap between the New Deal and the era of Reaganomics. To further elevate your writing, consider adding more specific examples of grassroots reactions or debates from the time period to provide even more depth to your analysis of 'society's' response."
+    },
+    {
+      "prompt": "Evaluate how United States foreign policy responded to changes in the world from 1890 to 1930. ",
+      "essay_id": "25 Set 1 Sample C",
+      "error": false,
+      "real_total": 2,
+      "ai_total": 6.0,
+      "total_possible": 6,
+      "total_diff": 4.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 0,
+          "ai": null,
+          "possible": 1,
+          "diff": null,
+          "reasoning": "",
+          "real_feedback": "The response did not earn the point for thesis/claim. The attempted thesis statement is offered in the \nfirst sentence, \u201cThe United States foreign policy responded to changes in the world from 1890 to 1930 \nby getting involved in World War I.\u201d This statement is a historically defensible claim, but it does not \nestablish a line of reasoning."
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 1,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 0.0,
+          "reasoning": "The explanation of the New Deal and the ideological debates surrounding government intervention effectively provides the broader historical context required to understand the subsequent reactions to the Great Society and Reaganomics.",
+          "real_feedback": "The response earned 1 point for contextualization. The second sentence of the first paragraph describes \nGeorge Washington\u2019s Farewell Address."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 1,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 1.0,
+          "reasoning": "The author provides sufficient specific evidence and effectively uses that evidence to support the argument that economic policies created distinct societal reactions among liberals and conservatives.",
+          "real_feedback": "The response earned 1 point for using evidence. It identifies United States involvement in the First World \nWar and the Treaty of Versailles as two pieces of evidence relevant to the topic of the prompt. \nThe response did not earn the second evidence point as it does not use evidence to support an argument \nrelevant to the prompt."
+        },
+        "D": {
+          "name": "Analysis and Reasoning",
+          "real": 0,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 2.0,
+          "reasoning": "The essay consistently applies a comparative framework across different economic eras, demonstrating sophisticated argumentation by consistently framing societal reactions as a spectrum of political disagreement.",
+          "real_feedback": "The response did not earn the point for using historical reasoning. The attempt to show how the First \nWorld War caused a change in United States foreign policy inaccurately claims that the \u201cUnited States \nended up not joining the league of nations and instead joined NATO.\u201d \nThe response did not earn the point for demonstrating a complex understanding because it makes no \nattempt at sophisticated argumentation or effective use of evidence."
+        }
+      },
+      "strengths": [
+        "Clear, organized thesis statement.",
+        "Strong use of historical context regarding the New Deal.",
+        "Effective application of historical reasoning (comparison of political perspectives).",
+        "Relevant and specific evidence used to substantiate arguments."
+      ],
+      "areas_for_improvement": [
+        "While the analysis is strong, the essay could be improved by exploring the perspectives of non-political entities or groups whose response to these economic changes was not strictly binary (liberal/conservative), such as specific labor unions or corporate interests, to further increase nuance."
+      ],
+      "final_feedback": "This is a very strong response that effectively evaluates how different political factions within American society responded to economic shifts between 1960 and 2000. Your use of the New Deal as a comparative contextual piece was excellent, and your argument remained focused and well-supported throughout the essay. Great job."
+    },
+    {
+      "prompt": "Evaluate how Native American societies adapted to the presence of European colonists in North America from 1500 to 1754. ",
+      "essay_id": "25 Set 1 Sample A",
+      "error": false,
+      "real_total": 6,
+      "ai_total": 6.0,
+      "total_possible": 4,
+      "total_diff": 0.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": null,
+          "possible": 1,
+          "diff": null,
+          "reasoning": "",
+          "real_feedback": "The response earned 1 point for thesis because it provides a historically defensible claim that establishes \na reasoning in the sentence of the first paragraph, stating \u201cNative American societies adapted to the \npresence of European colonists by being forced to convert or abandon ancestral lands, uprising militarily \nwhenever possible, and allowing for trade and cultural exchange as they were pushed westward.\u201d"
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 1,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 0.0,
+          "reasoning": "The essay successfully places the period in the context of the preceding New Deal era, explaining how that historical process influenced the subsequent responses to the Great Society and Reaganomics. No additional points are possible.",
+          "real_feedback": "The response earned 1 point for contextualization. In the first paragraph, the response describes \nextensive historical context, including Native American life before European contact, European reasons \nfor exploration and expansion, and changes to life in Europe that encouraged colonialism overseas."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 2,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 0.0,
+          "reasoning": "The response provides sufficient relevant evidence to support the argument. No additional points are possible.",
+          "real_feedback": "The response earned 1 point for identifying at least two specific historical examples relevant to the \nprompt. The response includes a large amount of creditable evidence, including the Spanish caste \nsystem, forced conversions to Christianity, the encomienda system, the Columbian Exchange and \nrelevant crops, European diseases such as smallpox, and Metacom\u2019s War. Although some evidence \nreferenced, such as the city of Cahokia, is outside the specified period, there is sufficient evidence in \nother parts of the essay for the first point.\nThe response earned 1 point for using at least two specific historical examples to support an argument \nin response to the prompt. The response supports the claim that some Native Americans\u2019 adaptation \nto European colonization varied with evidence of Metacom\u2019s War and the role of some Native American \nallies of the English in Metacom\u2019s defeat. In addition, the response uses William Penn\u2019s agreements with \nNative American nations as evidence of Native accommodation of colonial expansion instead of conflict."
+        }
+      },
+      "strengths": [
+        "Well-structured thesis statement.",
+        "Strong use of historical context regarding the New Deal.",
+        "Clear, consistent analysis comparing liberal and conservative viewpoints across multiple decades."
+      ],
+      "areas_for_improvement": [
+        "While the analysis is strong, the essay could be further enhanced by incorporating a wider variety of specific societal examples beyond political reactions, such as the impact on labor unions or the specific social demographics involved in these protests."
+      ],
+      "final_feedback": "This is a very strong, well-organized, and analytically sound essay. You successfully linked specific economic policies to societal reactions and provided clear historical context. Your use of the New Deal as a comparative baseline for the ideological divide in the late 20th century was particularly effective."
+    },
+    {
+      "prompt": "Evaluate how Native American societies adapted to the presence of European colonists in North America from 1500 to 1754. ",
+      "essay_id": "25 Set 1 Sample B",
+      "error": false,
+      "real_total": 4,
+      "ai_total": 6.0,
+      "total_possible": 4,
+      "total_diff": 2.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": null,
+          "possible": 1,
+          "diff": null,
+          "reasoning": "",
+          "real_feedback": "The response earned 1 point because it provides a historically defensible claim that establishes a \nreasoning in the final sentence of the first paragraph, stating \u201cNative amercian societies adapted to \nthe presence of european colonists in north amercia from 1500 to 1754 by fighting with them over \nterritory, and assimilating to european culture.\u201d"
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 1,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 0.0,
+          "reasoning": "The student identifies how the ideological legacy of the New Deal set the stage for later debates over government intervention, effectively providing relevant context.",
+          "real_feedback": "The response earned 1 point for contextualizing the time period by providing the reasons for European \nexploration and contact with Native Americans in the opening sentences of the response."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 1,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 1.0,
+          "reasoning": "The evidence is not only specific but is used to support the argument that these economic policies provoked polarized societal reactions.",
+          "real_feedback": "The response earned 1 point for evidence. The response earns the first point for describing several \nexamples of evidence such as the Columbian Exchange, King Philip\u2019s War, and the French and Indian \nWar, but does not effectively use them to support an argument. The response\u2019s discussion of the \nCherokee Nation is outside the time period of the prompt."
+        }
+      },
+      "strengths": [
+        "Clear, well-structured thesis statement.",
+        "Strong use of specific terminology (supply-side economics, New Federalism).",
+        "Consistent focus on the prompt throughout the body paragraphs."
+      ],
+      "areas_for_improvement": [
+        "While the argument is sound, adding more diverse voices beyond just 'liberal' and 'conservative' political labels could enhance the nuance of the social response.",
+        "Proofread for minor spelling errors (e.g., 'praize', 'Reagonomics', 'rebuttal')."
+      ],
+      "final_feedback": "This is a strong, well-reasoned essay. You successfully met all the rubric criteria. You established a clear thesis, provided relevant historical context by connecting to the New Deal, used specific and accurate evidence, and employed effective historical reasoning. The essay is well-organized and stays focused on the prompt throughout."
+    },
+    {
+      "prompt": "Evaluate how Native American societies adapted to the presence of European colonists in North America from 1500 to 1754. ",
+      "essay_id": "25 Set 1 Sample C",
+      "error": false,
+      "real_total": 2,
+      "ai_total": 6.0,
+      "total_possible": 6,
+      "total_diff": 4.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": null,
+          "possible": 1,
+          "diff": null,
+          "reasoning": "",
+          "real_feedback": "The response earned 1 point for a historically defensible thesis that establishes a line of reasoning in \nthe final sentence of the first paragraph: \u201cThe Native American greatly adapted to the presence of the \nEuropeans by trading with them and conquring new land westward.\u201d"
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 0,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 1.0,
+          "reasoning": "The student provides a clear historical bridge from the 1930s to the prompt's time period, establishing how previous economic policy conflicts shaped later societal attitudes.",
+          "real_feedback": "The response does not earn a point for contextualization, despite an attempt to do so in the first \nparagraph. However, the two sentences are too vague and overgeneralized."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 0,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 2.0,
+          "reasoning": "The evidence is relevant, specific, and used to support the argument regarding how different segments of society reacted to specific economic policies.",
+          "real_feedback": "The response does not earn any points for use of evidence, despite numerous attempts to do so. The \nexamples given are inaccurate, outside the time period of the question, or insufficiently described."
+        },
+        "D": {
+          "name": "Analysis and Reasoning",
+          "real": 1,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 1.0,
+          "reasoning": "The response achieves a complex understanding by not just stating facts, but by analyzing the 'why' behind the polarized reactions to economic policy, effectively contrasting liberal and conservative perspectives throughout the piece.",
+          "real_feedback": "The response earns 1 point for analysis by using the historical skill of causation, arguing that smallpox \nintroduced by the Spanish was \u201ccausing them to adapt to new land westward\u201d in the fourth paragraph. \nWhile that text refers to South America, the response clarifies in the next sentence that a similar effect \nhappened in North America as well, arguing that contact with the British resulted in Native Americans \ngetting \u201cpushed back from the coast and rivers.\u201d \nThe response did not earn the point for demonstrating a complex understanding because it makes no \nattempt at sophisticated argumentation or effective use of evidence."
+        }
+      },
+      "strengths": [
+        "Clear, well-structured argument that directly addresses the prompt.",
+        "Effective use of historical context (the New Deal) to frame subsequent events.",
+        "Strong evidence usage (Medicare, Medicaid, Reaganomics) to support the analysis.",
+        "Sophisticated analysis of how ideological lenses caused different societal reactions to the same economic shifts."
+      ],
+      "areas_for_improvement": [
+        "While the analysis is strong, the essay could be further improved by incorporating more specific societal responses beyond political/ideological ones, such as cultural movements or grassroots activism related to economic conditions."
+      ],
+      "final_feedback": "This is a high-quality essay that demonstrates a strong grasp of the period and the prompt. You successfully synthesized economic policies with the resulting societal reactions. Your contextualization was particularly strong, as it provided necessary weight to your argument about the ideological divide. To reach even higher levels of sophistication in future essays, you might consider incorporating more specific details about how these policies impacted the daily lives of citizens beyond just the ideological rhetoric."
+    },
+    {
+      "prompt": "Evaluate how sectional tensions shaped United States society from 1800 to 1848. ",
+      "essay_id": "25 Set 2 Sample A",
+      "error": false,
+      "real_total": 6,
+      "ai_total": 6.0,
+      "total_possible": 6,
+      "total_diff": 0.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": null,
+          "possible": 1,
+          "diff": null,
+          "reasoning": "",
+          "real_feedback": "The response earned 1 point for thesis because it provides a historically defensible claim that establishes \na line of reasoning in the last sentence of the first paragraph: \u201csectional tensions in the United States \nin the pre-Civil War era led to increased political debates over the expansion of slavery into the western \nterritories between the North and the South.\u201d"
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 1,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 0.0,
+          "reasoning": "The explanation of the New Deal provides a solid foundation for understanding the ideological divide that characterized the later responses to the Great Society and Reaganomics.",
+          "real_feedback": "The response earned 1 point for contextualization in the first paragraph with the references to the Middle \nPassage, the institution of slavery in the South, and the North\u2019s gradual abandonment of slavery."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 2,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 0.0,
+          "reasoning": "The student uses specific historical evidence to support their argument regarding how liberals and conservatives viewed economic policies during the era.",
+          "real_feedback": "The response earned 1 point for using evidence relevant to the topic of the prompt. For example, \nthe response accurately describes the annexation of Texas, the Free Soil Party, and the Missouri \nCompromise.\nThe response earned the second point for using evidence to support an argument. The argument that \nwestward expansion increased political debates over the expansion of slavery into the western territories \nis supported with an explanation of the impact of popular sovereignty and the Free Soil Party, as well as \nthe tension causing the creation of the Missouri Compromise."
+        },
+        "D": {
+          "name": "Analysis and Reasoning",
+          "real": 2,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 0.0,
+          "reasoning": "The essay goes beyond merely listing facts by consistently connecting economic policy to the corresponding societal reactions, successfully demonstrating a complex understanding of the era.",
+          "real_feedback": "The response earned 1 point for using a variety of historical reasoning skills to frame or structure an \nargument that addresses the prompt. For example, the second paragraph compares the goals of the Free \nSoil Party with the concept of popular sovereignty to show differences, and the third paragraph explains \nhow the Missouri Compromise caused an increase in tensions between the North and South."
+        }
+      },
+      "strengths": [
+        "Strong thesis statement that clearly outlines the argument.",
+        "Effective use of historical context to frame the ideological shifts.",
+        "Consistent focus on the prompt throughout the body paragraphs.",
+        "Excellent use of historical evidence to support arguments."
+      ],
+      "areas_for_improvement": [
+        "While the spelling and grammar do not affect the score, proofreading for terms like 'praize' (praise), 'Reagonomics' (Reaganomics), and 'ecnomic' (economic) would improve the professional quality of the writing."
+      ],
+      "final_feedback": "This is an excellent essay. You have a clear grasp of the ideological divides in the United States from 1960 to 2000 and used relevant evidence to support your thesis. Your contextualization effectively bridges the gap between the New Deal era and the late 20th century, showing how ideological patterns persisted over time. To continue to improve, ensure you proofread for spelling errors to maintain a high level of academic rigor."
+    },
+    {
+      "prompt": "Evaluate how sectional tensions shaped United States society from 1800 to 1848. ",
+      "essay_id": "25 Set 2 Sample B",
+      "error": false,
+      "real_total": 4,
+      "ai_total": 6.0,
+      "total_possible": 0,
+      "total_diff": 2.0,
+      "criteria_diffs": {},
+      "strengths": [
+        "Clear, cohesive thesis statement.",
+        "Strong use of historical context (the New Deal) to bridge time periods.",
+        "Good integration of specific terminology like 'supply-side economics' and 'trickle-down theory'.",
+        "Balanced treatment of opposing political viewpoints."
+      ],
+      "areas_for_improvement": [
+        "While the argument is clear, adding specific examples of 'liberal protests' or specific 'conservative' groups (beyond general characterization) could deepen the evidence.",
+        "Correct minor spelling errors such as 'praize', 'Reagonomics', and 'convervatives' to maintain academic tone."
+      ],
+      "final_feedback": "This is a very strong essay. You successfully met all rubric criteria by providing a clear thesis, using relevant historical context, supporting your claims with specific evidence, and maintaining a sophisticated analysis throughout. Your ability to compare how different political ideologies responded to specific economic policies (The Great Society vs. Reaganomics) demonstrates a strong grasp of the historical period. To further improve, ensure you proofread for spelling errors and look for opportunities to include more granular detail about the specific movements (e.g., protest groups or specific policy debates) that characterized these responses."
+    },
+    {
+      "prompt": "Evaluate how sectional tensions shaped United States society from 1800 to 1848. ",
+      "essay_id": "25 Set 2 Sample C",
+      "error": false,
+      "real_total": 1,
+      "ai_total": 6.0,
+      "total_possible": 4,
+      "total_diff": 5.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 0.0,
+          "reasoning": "The thesis is historically defensible, answers the prompt, and provides a clear line of reasoning.",
+          "real_feedback": "The response earned 1 point for thesis because it provides a historically defensible claim that establishes \na minimally acceptable line of reasoning, arguing that \u201cSectional tensions\u201d shaped United States society \nthrough \u201cvarying opinions of Americans on slaverys eventual downfall and how new land bought and \ngained pre civil war.\u201d"
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 0,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 1.0,
+          "reasoning": "The explanation of how New Deal policies set the stage for later ideological battles provides sufficient historical context.",
+          "real_feedback": "The response did not earn the point for contextualization. There is an attempt at contextualization with \nthe reference to the Civil War in the second sentence, but it is a passing reference rephrasing the thesis \nin the following sentence."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 0,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 2.0,
+          "reasoning": "The response effectively uses specific pieces of evidence to support the argument regarding differing societal responses to economic changes.",
+          "real_feedback": "The response earned 0 points for describing at least two pieces of evidence relevant to the topic of \nthe prompt. The attempts to identify the \u201c40 6 40 line\u201d and \u201cslave rebellions\u201d are either historically \ninaccurate or too vague.\nThe response did not earn 1 point for using at least two pieces of evidence to support an argument in \nresponse to the prompt."
+        }
+      },
+      "strengths": [
+        "Clear, defensible thesis statement.",
+        "Effective use of historical context to frame the argument.",
+        "Strong evidence used to support the prompt's requirements.",
+        "Consistent and logical analysis of opposing perspectives (liberal vs. conservative)."
+      ],
+      "areas_for_improvement": [
+        "Proofread for minor typos (e.g., 'praize', 'Reagonomics', 'ecnomic').",
+        "Further detail on specific societal movements outside of political elite reactions (e.g., grass-roots organizations or labor groups) could add depth."
+      ],
+      "final_feedback": "This is a well-structured and analytically sound essay. You successfully linked the ideological precedents of the New Deal to the later economic policies of the Great Society and the Reagan era. Your consistent use of evidence to support the differing societal responses ensures that your argument is well-supported and persuasive. Please continue to focus on minor spelling and grammatical accuracy to ensure the most professional presentation of your analysis."
+    },
+    {
+      "prompt": "Evaluate how British colonists in the Americas adapted to their environments from 1607 to 1754. ",
+      "essay_id": "25 Set 2 Sample A",
+      "error": false,
+      "real_total": 6,
+      "ai_total": 6.0,
+      "total_possible": 4,
+      "total_diff": 0.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": null,
+          "possible": 1,
+          "diff": null,
+          "reasoning": "",
+          "real_feedback": "The response earned 1 point for the thesis, arguing in the first paragraph that: \u201cWhile British colonists \ndeveloped different economic systems to support themselves due to their different environments, they all \nrelied on slavery and adapted to living with Native Americans neighbors to survive.\u201d"
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 1,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 0.0,
+          "reasoning": "The contextualization is relevant and connects the pre-existing ideological divide regarding federal economic intervention to the period in question.",
+          "real_feedback": "The response earned 1 point for contextualization. In the introduction, the response situates British \ncolonization with a discussion of the arrival of Columbus in the Americas and the European competition \nfor colonies that developed in the years after. The response further discusses how Spain, France, and \nthe Netherlands all established outposts along the Atlantic and that the British were the last group to \nestablish permanent settlements."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 2,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 0.0,
+          "reasoning": "The evidence is specific and effectively used to support the argument that economic policies elicited contrasting societal responses based on ideology.",
+          "real_feedback": "The response earned 1 point for evidence through its inclusion of many pieces of specific evidence, \nincluding the growth of tobacco as a cash crop in the Chesapeake region and the development of a \nplantation economy in the southern colonies because of favorable environmental conditions.\nThe response earned 1 point for using at least two specific historical examples to support the argument. \nThe response explains how the environment along the Atlantic Coast was conducive to the development \nof a variety of labor-intensive crops requiring a consistent source of labor. The response further explains \nthe colonists\u2019 use of indentured servants and later the forced migration of enslaved Africans."
+        }
+      },
+      "strengths": [
+        "Clear, logical thesis statement.",
+        "Strong use of historical context to frame the ideological divide.",
+        "Effective use of specific economic policies as evidence.",
+        "Sophisticated analysis of how ideological lenses influenced public reception of government economic policy."
+      ],
+      "areas_for_improvement": [
+        "Proofread for minor spelling errors (e.g., 'Reagonomics', 'praize', 'convervatives').",
+        "Deepen the analysis by incorporating the specific societal impact\u2014perhaps citing specific groups or movements (e.g., Civil Rights groups or anti-tax movements) beyond just generic 'liberals' and 'conservatives'."
+      ],
+      "final_feedback": "This is a very strong essay. You clearly addressed the prompt, established a solid historical context using the New Deal, and provided a well-structured argument that accounted for competing perspectives throughout the 1960\u20132000 period. Your use of evidence to support your claims about societal responses to the Great Society and Reaganomics was excellent. To improve further, ensure you proofread for spelling to maintain academic polish, and try to include more specific groups or demographic shifts to add even more nuance to your analysis."
+    },
+    {
+      "prompt": "Evaluate how British colonists in the Americas adapted to their environments from 1607 to 1754. ",
+      "essay_id": "25 Set 2 Sample B",
+      "error": false,
+      "real_total": 3,
+      "ai_total": 5.0,
+      "total_possible": 2,
+      "total_diff": 2.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": null,
+          "possible": 1,
+          "diff": null,
+          "reasoning": "",
+          "real_feedback": "The response earned 1 point for the thesis. The first sentence of the response responds to the prompt \nwith a historically defensible line of reasoning: \u201cBritish colonists in 1607 to 1754 adapted to their \nenvironments in a vareity of ways including making connections with the Native Americans and by \nusing the land to grow beneficial crops.\u201d"
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 0,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 1.0,
+          "reasoning": "The explanation of the New Deal provides a relevant broader historical process occurring before the prompt's period that directly shapes the subsequent argument. No additional points are possible.",
+          "real_feedback": "The response did not earn the point for contextualization. The response attempts context in the first \nparagraph; however, this attempt is overly generalized."
+        }
+      },
+      "strengths": [
+        "The essay maintains a clear and consistent argument throughout.",
+        "Excellent use of contextualization to link the New Deal to later economic debates.",
+        "Strong use of specific examples to support the thesis."
+      ],
+      "areas_for_improvement": [
+        "Avoid repetitive phrasing and structure (e.g., 'liberal viewers... conservative opposition').",
+        "Engage with the complexity of the period by discussing factors beyond just binary political ideology.",
+        "Explore how the societal response changed over the course of the four decades rather than treating the entire period as a static reaction."
+      ],
+      "final_feedback": "This is a well-structured and historically grounded essay. You have a strong grasp of the prompt and have built a coherent argument supported by relevant evidence. To improve, aim for greater sophistication in your analysis. Instead of relying on a recurring pattern of 'liberals liked this and conservatives disliked that' (and vice versa), try to synthesize how these economic shifts created more nuanced societal outcomes, such as the shifting role of the middle class, the impact of specific recessions, or the evolution of public opinion over time."
+    },
+    {
+      "prompt": "Evaluate how British colonists in the Americas adapted to their environments from 1607 to 1754. ",
+      "essay_id": "25 Set 2 Sample C",
+      "error": false,
+      "real_total": 2,
+      "ai_total": 6.0,
+      "total_possible": 6,
+      "total_diff": 4.0,
+      "criteria_diffs": {
+        "A": {
+          "name": "Thesis/Claim",
+          "real": 1,
+          "ai": null,
+          "possible": 1,
+          "diff": null,
+          "reasoning": "",
+          "real_feedback": "The response earned 1 point for the thesis. The last sentence of the first paragraph claims that \u201cThe \nbritish colonist in the americas significantly adapted to thier environments from 1607 to 1754 due to the \nsocial and economic events such as trading with the American Indians and growing crops.\u201d This claim \nresponds to the prompt with a historically defensible line of reasoning."
+        },
+        "B": {
+          "name": "Contextualization",
+          "real": 0,
+          "ai": 1.0,
+          "possible": 1,
+          "diff": 1.0,
+          "reasoning": "The connection between the New Deal and the subsequent debates over the Great Society and Reaganomics provides sufficient historical context.",
+          "real_feedback": "The response did not earn 1 point for contextualization. The passing reference to the Columbian \nExchange is too vague."
+        },
+        "C": {
+          "name": "Evidence",
+          "real": 1,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 1.0,
+          "reasoning": "The essay uses specific examples of economic policy to support the argument about societal polarization.",
+          "real_feedback": "The response earned 1 point for providing two specific pieces of evidence relevant to the prompt. In \nthe second paragraph, the response provides a general discussion of two different aspects of European \ncolonization and trade by mentioning religious freedom and trade with Native Americans. Paragraph \nthree makes specific reference to growing corn and tobacco and discusses the development of plantation \neconomies in the southern colonies, specifically mentioning the rise of slavery.\nThe response did not earn the second point for evidence as its attempts to use evidence to support an \nargument were either too vague or not connected to the prompt."
+        },
+        "D": {
+          "name": "Analysis and Reasoning",
+          "real": 0,
+          "ai": 2.0,
+          "possible": 2,
+          "diff": 2.0,
+          "reasoning": "The response demonstrates a complex understanding by consistently framing economic changes through the lens of ideological conflict, providing a nuanced view of how different segments of society responded to the same policies.",
+          "real_feedback": "The response did not earn the point for historical reasoning. The response mentions continuity over time \nin paragraph two, but the explanation of trade development is not connected to the prompt.\nThe response did not earn the point for demonstrating a complex understanding because it makes no \nattempt at sophisticated argumentation or effective use of evidence."
+        }
+      },
+      "strengths": [
+        "Clear, well-structured argument that directly addresses the prompt.",
+        "Effective use of historical context (New Deal) to frame later events.",
+        "Strong balance of perspectives (liberal vs. conservative reactions)."
+      ],
+      "areas_for_improvement": [
+        "While the essay covers the 1960s-80s well, it could broaden the scope slightly to capture more of the 1990s to better represent the full 2000 timeframe.",
+        "Some terminology like 'happy response' or 'conservative joy' could be replaced with more formal academic language."
+      ],
+      "final_feedback": "This is a very strong, well-organized essay that effectively balances historical evidence with a clear analytical framework. You successfully navigated the ideological landscape of the era and provided a coherent thesis that was supported throughout the body paragraphs."
+    }
+  ]
+}
