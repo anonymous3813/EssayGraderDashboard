@@ -1,6 +1,8 @@
 import type { PageLoad } from './$types';
 import type { Run } from '$lib/types';
 
+export const prerender = true;
+
 export const load: PageLoad = async ({ fetch }) => {
   const manifest: string[] = await fetch('/results/manifest.json').then(r => r.json());
 
